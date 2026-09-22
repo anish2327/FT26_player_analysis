@@ -1,0 +1,8 @@
+duckdb
+pandas
+numpy
+scikit-learn
+plotly
+jupyter
+ipywidgets
+nbformat
